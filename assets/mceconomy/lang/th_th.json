@@ -1,5 +1,5 @@
 {
-  "mcengine.mceconomy.item.coin.name": "เหรียญ %s",
+  "mcengine.mceconomy.item.coin.name": "%s %s",
   "mcengine.mceconomy.msg.balance.other": "ยอดเงิน %s ของ %s: %s",
   "mcengine.mceconomy.msg.balance.self": "ยอดเงิน %s ของคุณ: %s",
   "mcengine.mceconomy.msg.command.unknown": "ไม่รู้จักคำสั่งย่อย อาร์กิวเมนต์: %s",

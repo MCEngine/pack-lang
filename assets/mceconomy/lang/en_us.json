@@ -1,5 +1,5 @@
 {
-  "mcengine.mceconomy.item.coin.name": "%s Coin",
+  "mcengine.mceconomy.item.coin.name": "%s %s",
   "mcengine.mceconomy.msg.balance.other": "%s's %s balance: %s",
   "mcengine.mceconomy.msg.balance.self": "Your %s balance: %s",
   "mcengine.mceconomy.msg.command.unknown": "Unknown subcommand. Args: %s",
