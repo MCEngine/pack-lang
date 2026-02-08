@@ -1,11 +1,13 @@
 {
   "mcengine.mcbackpack.gui.title": "",
+  "mcengine.mcbackpack.item.applicator.name": "",
   "mcengine.mcbackpack.item.creation.name": "",
   "mcengine.mcbackpack.item.name": "",
   "mcengine.mcbackpack.msg.cancelled": "",
   "mcengine.mcbackpack.msg.command.unknown": "",
   "mcengine.mcbackpack.msg.creation.received": "",
   "mcengine.mcbackpack.msg.error.deserialize": "",
+  "mcengine.mcbackpack.msg.error.invalid_texture": "",
   "mcengine.mcbackpack.msg.error.item.moved": "",
   "mcengine.mcbackpack.msg.error.item.open": "",
   "mcengine.mcbackpack.msg.error.load": "",
@@ -22,6 +24,7 @@
   "mcengine.mcbackpack.msg.help.help": "",
   "mcengine.mcbackpack.msg.help.hover": "",
   "mcengine.mcbackpack.msg.help.setpwd": "",
+  "mcengine.mcbackpack.msg.help.texture": "",
   "mcengine.mcbackpack.msg.initialized": "",
   "mcengine.mcbackpack.msg.item.open": "",
   "mcengine.mcbackpack.msg.locked": "",
@@ -37,8 +40,11 @@
   "mcengine.mcbackpack.msg.password.removed": "",
   "mcengine.mcbackpack.msg.password.set": "",
   "mcengine.mcbackpack.msg.permission.denied": "",
+  "mcengine.mcbackpack.msg.texture.applied": "",
+  "mcengine.mcbackpack.msg.texture.received": "",
   "mcengine.mcbackpack.msg.try.again": "",
   "mcengine.mcbackpack.msg.usage.changepwd": "",
   "mcengine.mcbackpack.msg.usage.deletepwd": "",
-  "mcengine.mcbackpack.msg.usage.setpwd": ""
+  "mcengine.mcbackpack.msg.usage.setpwd": "",
+  "mcengine.mcbackpack.msg.usage.texture": ""
 }

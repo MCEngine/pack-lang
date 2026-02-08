@@ -1,11 +1,13 @@
 {
   "mcengine.mcbackpack.gui.title": "Backpack",
+  "mcengine.mcbackpack.item.applicator.name": "Texture Applicator",
   "mcengine.mcbackpack.item.creation.name": "Backpack Creation",
   "mcengine.mcbackpack.item.name": "Backpack",
   "mcengine.mcbackpack.msg.cancelled": "Cancelled.",
   "mcengine.mcbackpack.msg.command.unknown": "Unknown subcommand. Args: %s",
   "mcengine.mcbackpack.msg.creation.received": "Received new backpack creation item!",
   "mcengine.mcbackpack.msg.error.deserialize": "Error deserializing inventory.",
+  "mcengine.mcbackpack.msg.error.invalid_texture": "Error: Invalid texture string.",
   "mcengine.mcbackpack.msg.error.item.moved": "Error: You moved the creation item!",
   "mcengine.mcbackpack.msg.error.item.open": "Error opening inventory.",
   "mcengine.mcbackpack.msg.error.load": "Failed to load data.",
@@ -22,6 +24,7 @@
   "mcengine.mcbackpack.msg.help.help": "- View this help menu",
   "mcengine.mcbackpack.msg.help.hover": "Click to autofill",
   "mcengine.mcbackpack.msg.help.setpwd": "<password> - Set password for held backpack",
+  "mcengine.mcbackpack.msg.help.texture": "<base64> - Get a texture applicator",
   "mcengine.mcbackpack.msg.initialized": "Backpack initialized!",
   "mcengine.mcbackpack.msg.item.open": "Loading backpack...",
   "mcengine.mcbackpack.msg.locked": "This backpack is locked!",
@@ -37,8 +40,11 @@
   "mcengine.mcbackpack.msg.password.removed": "Password removed (unlocked).",
   "mcengine.mcbackpack.msg.password.set": "Backpack password set successfully.",
   "mcengine.mcbackpack.msg.permission.denied": "You do not have permission to use this command.",
+  "mcengine.mcbackpack.msg.texture.applied": "Texture applied successfully!",
+  "mcengine.mcbackpack.msg.texture.received": "Received texture applicator!",
   "mcengine.mcbackpack.msg.try.again": "Try again or type 'cancel' to exit.",
   "mcengine.mcbackpack.msg.usage.changepwd": "Usage: /backpack changepwd <oldPwd> <newPwd>",
   "mcengine.mcbackpack.msg.usage.deletepwd": "Usage: /backpack deletepwd <password>",
-  "mcengine.mcbackpack.msg.usage.setpwd": "Usage: /backpack setpwd <password>"
+  "mcengine.mcbackpack.msg.usage.setpwd": "Usage: /backpack setpwd <password>",
+  "mcengine.mcbackpack.msg.usage.texture": "Usage: /backpack texture <base64>"
 }
