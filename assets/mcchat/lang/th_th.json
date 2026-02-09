@@ -1,0 +1,15 @@
+{
+  "mcengine.mcchat.msg.permission.denied": "คุณไม่มีสิทธิ์ใช้คำสั่งนี้",
+  "mcengine.mcchat.msg.command.unknown": "ไม่พบคำสั่งย่อย: %s",
+  "mcengine.mcchat.msg.player.only": "คำสั่งนี้ใช้ได้เฉพาะผู้เล่นเท่านั้น",
+  "mcengine.mcchat.msg.usage.set": "วิธีใช้: /mcchat set <country|frequency> <ค่า>",
+  "mcengine.mcchat.msg.invalid.country": "รหัสประเทศไม่ถูกต้อง ใช้รหัส ISO 2 ตัวอักษร (เช่น US, TH)",
+  "mcengine.mcchat.msg.success.set.country": "ตั้งค่าประเทศเป็น %s แล้ว",
+  "mcengine.mcchat.msg.error.generic": "เกิดข้อผิดพลาด กรุณาลองใหม่อีกครั้งภายหลัง",
+  "mcengine.mcchat.msg.invalid.frequency": "ความถี่ไม่ถูกต้อง กรุณาใส่ตัวเลขที่มากกว่า 0",
+  "mcengine.mcchat.msg.success.set.frequency": "ตั้งค่าความถี่เป็น %s แล้ว",
+  "mcengine.mcchat.msg.help.set": "ตั้งค่าประเทศหรือความถี่ของคุณ",
+  "mcengine.mcchat.msg.help.header": "คำสั่ง MCChat",
+  "mcengine.mcchat.msg.help.hover": "คลิกเพื่อใส่คำสั่งนี้",
+  "mcengine.mcchat.msg.help.help": "แสดงเมนูช่วยเหลือนี้"
+}

@@ -1,0 +1,15 @@
+{
+  "mcengine.mcchat.msg.permission.denied": "You do not have permission to use this command.",
+  "mcengine.mcchat.msg.command.unknown": "Unknown subcommand: %s",
+  "mcengine.mcchat.msg.player.only": "This command can only be used by players.",
+  "mcengine.mcchat.msg.usage.set": "Usage: /mcchat set <country|frequency> <value>",
+  "mcengine.mcchat.msg.invalid.country": "Invalid country code. Use a 2-letter ISO code (e.g., US, TH).",
+  "mcengine.mcchat.msg.success.set.country": "Country set to %s.",
+  "mcengine.mcchat.msg.error.generic": "An error occurred. Please try again later.",
+  "mcengine.mcchat.msg.invalid.frequency": "Invalid frequency. Please enter a positive number.",
+  "mcengine.mcchat.msg.success.set.frequency": "Frequency set to %s.",
+  "mcengine.mcchat.msg.help.set": "Set your country or frequency.",
+  "mcengine.mcchat.msg.help.header": "MCChat Commands",
+  "mcengine.mcchat.msg.help.hover": "Click to insert this command.",
+  "mcengine.mcchat.msg.help.help": "Show this help menu."
+}
