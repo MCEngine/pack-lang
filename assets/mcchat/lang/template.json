@@ -1,0 +1,15 @@
+{
+  "mcengine.mcchat.msg.permission.denied": "",
+  "mcengine.mcchat.msg.command.unknown": "",
+  "mcengine.mcchat.msg.player.only": "",
+  "mcengine.mcchat.msg.usage.set": "",
+  "mcengine.mcchat.msg.invalid.country": "",
+  "mcengine.mcchat.msg.success.set.country": "",
+  "mcengine.mcchat.msg.error.generic": "",
+  "mcengine.mcchat.msg.invalid.frequency": "",
+  "mcengine.mcchat.msg.success.set.frequency": "",
+  "mcengine.mcchat.msg.help.set": "",
+  "mcengine.mcchat.msg.help.header": "",
+  "mcengine.mcchat.msg.help.hover": "",
+  "mcengine.mcchat.msg.help.help": ""
+}
