@@ -1,0 +1,18 @@
+{
+  "mcengine.mcdaily.cannot_claim_past": "You can’t claim past days.",
+  "mcengine.mcdaily.cannot_claim_future": "You can’t claim future days yet.",
+  "mcengine.mcdaily.already_claimed": "You already claimed this reward.",
+  "mcengine.mcdaily.no_reward_today": "No reward is set for today.",
+  "mcengine.mcdaily.reward_error": "There was an error giving your reward.",
+  "mcengine.mcdaily.reward_claimed": "Reward claimed!",
+  "mcengine.mcdaily.editor.saved": "Rewards saved.",
+  "mcengine.mcdaily.claimed": "Claimed",
+  "mcengine.mcdaily.missed": "Missed",
+  "mcengine.mcdaily.no_reward": "No Reward",
+  "mcengine.mcdaily.available_on": "Available on: {0}",
+  "mcengine.mcdaily.no_permission": "You don’t have permission to do that.",
+  "mcengine.mcdaily.edit.usage": "Usage: /daily edit <year> <month>",
+  "mcengine.mcdaily.edit.invalid_month": "Invalid month. Use 1-12.",
+  "mcengine.mcdaily.edit.invalid_args": "Invalid arguments.",
+  "mcengine.mcdaily.unknown_subcommand": "Unknown subcommand."
+}

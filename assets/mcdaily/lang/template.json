@@ -1,0 +1,18 @@
+{
+  "mcengine.mcdaily.cannot_claim_past": "",
+  "mcengine.mcdaily.cannot_claim_future": "",
+  "mcengine.mcdaily.already_claimed": "",
+  "mcengine.mcdaily.no_reward_today": "",
+  "mcengine.mcdaily.reward_error": "",
+  "mcengine.mcdaily.reward_claimed": "",
+  "mcengine.mcdaily.editor.saved": "",
+  "mcengine.mcdaily.claimed": "",
+  "mcengine.mcdaily.missed": "",
+  "mcengine.mcdaily.no_reward": "",
+  "mcengine.mcdaily.available_on": "",
+  "mcengine.mcdaily.no_permission": "",
+  "mcengine.mcdaily.edit.usage": "",
+  "mcengine.mcdaily.edit.invalid_month": "",
+  "mcengine.mcdaily.edit.invalid_args": "",
+  "mcengine.mcdaily.unknown_subcommand": ""
+}
