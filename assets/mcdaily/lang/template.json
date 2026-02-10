@@ -14,5 +14,8 @@
   "mcengine.mcdaily.edit.usage": "",
   "mcengine.mcdaily.edit.invalid_month": "",
   "mcengine.mcdaily.edit.invalid_args": "",
-  "mcengine.mcdaily.unknown_subcommand": ""
+  "mcengine.mcdaily.unknown_subcommand": "",
+  "mcengine.mcdaily.players_only": "",
+  "mcengine.mcdaily.gui.title": "",
+  "mcengine.mcdaily.editor.title": ""
 }
