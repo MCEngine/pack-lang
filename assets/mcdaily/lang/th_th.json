@@ -17,5 +17,6 @@
   "mcengine.mcdaily.unknown_subcommand": "คำสั่งย่อยไม่ถูกต้อง",
   "mcengine.mcdaily.players_only": "คำสั่งนี้ใช้ได้เฉพาะผู้เล่นเท่านั้น",
   "mcengine.mcdaily.gui.title": "MCDaily - %s",
-  "mcengine.mcdaily.editor.title": "MCDaily Editor - %s"
+  "mcengine.mcdaily.editor.title": "MCDaily Editor - %s",
+  "mcengine.mcdaily.not_in_month": "ไม่สามารถใช้งานได้"
 }

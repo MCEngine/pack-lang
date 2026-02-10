@@ -17,5 +17,6 @@
   "mcengine.mcdaily.unknown_subcommand": "Unknown subcommand.",
   "mcengine.mcdaily.players_only": "This command can only be used by players.",
   "mcengine.mcdaily.gui.title": "MCDaily - %s",
-  "mcengine.mcdaily.editor.title": "MCDaily Editor - %s"
+  "mcengine.mcdaily.editor.title": "MCDaily Editor - %s",
+  "mcengine.mcdaily.not_in_month": "Not available"
 }
