@@ -9,13 +9,13 @@
   "mcengine.mcdaily.claimed": "รับแล้ว",
   "mcengine.mcdaily.missed": "พลาด",
   "mcengine.mcdaily.no_reward": "ไม่มีรางวัล",
-  "mcengine.mcdaily.available_on": "พร้อมรับวันที่: {0}",
+  "mcengine.mcdaily.available_on": "พร้อมรับวันที่: %s",
   "mcengine.mcdaily.no_permission": "คุณไม่มีสิทธิ์ใช้งานคำสั่งนี้",
   "mcengine.mcdaily.edit.usage": "วิธีใช้: /daily edit <ปี> <เดือน>",
   "mcengine.mcdaily.edit.invalid_month": "เดือนไม่ถูกต้อง (ใช้ 1-12)",
   "mcengine.mcdaily.edit.invalid_args": "อาร์กิวเมนต์ไม่ถูกต้อง",
   "mcengine.mcdaily.unknown_subcommand": "คำสั่งย่อยไม่ถูกต้อง",
   "mcengine.mcdaily.players_only": "คำสั่งนี้ใช้ได้เฉพาะผู้เล่นเท่านั้น",
-  "mcengine.mcdaily.gui.title": "MCDaily - {0}",
-  "mcengine.mcdaily.editor.title": "MCDaily Editor - {0}"
+  "mcengine.mcdaily.gui.title": "MCDaily - %s",
+  "mcengine.mcdaily.editor.title": "MCDaily Editor - %s"
 }

@@ -9,13 +9,13 @@
   "mcengine.mcdaily.claimed": "Claimed",
   "mcengine.mcdaily.missed": "Missed",
   "mcengine.mcdaily.no_reward": "No Reward",
-  "mcengine.mcdaily.available_on": "Available on: {0}",
+  "mcengine.mcdaily.available_on": "Available on: %s",
   "mcengine.mcdaily.no_permission": "You don’t have permission to do that.",
   "mcengine.mcdaily.edit.usage": "Usage: /daily edit <year> <month>",
   "mcengine.mcdaily.edit.invalid_month": "Invalid month. Use 1-12.",
   "mcengine.mcdaily.edit.invalid_args": "Invalid arguments.",
   "mcengine.mcdaily.unknown_subcommand": "Unknown subcommand.",
   "mcengine.mcdaily.players_only": "This command can only be used by players.",
-  "mcengine.mcdaily.gui.title": "MCDaily - {0}",
-  "mcengine.mcdaily.editor.title": "MCDaily Editor - {0}"
+  "mcengine.mcdaily.gui.title": "MCDaily - %s",
+  "mcengine.mcdaily.editor.title": "MCDaily Editor - %s"
 }
