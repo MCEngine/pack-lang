@@ -1,0 +1,22 @@
+{
+  "mcengine.mcdaily.cannot_claim_past": "ไม่สามารถรับรางวัลของวันที่ผ่านมาได้",
+  "mcengine.mcdaily.cannot_claim_future": "ยังไม่สามารถรับรางวัลของวันถัดไปได้",
+  "mcengine.mcdaily.already_claimed": "คุณได้รับรางวัลนี้ไปแล้ว",
+  "mcengine.mcdaily.no_reward_today": "วันนี้ยังไม่มีการตั้งรางวัล",
+  "mcengine.mcdaily.reward_error": "เกิดข้อผิดพลาดขณะมอบรางวัล",
+  "mcengine.mcdaily.reward_claimed": "รับรางวัลเรียบร้อยแล้ว!",
+  "mcengine.mcdaily.editor.saved": "บันทึกรางวัลเรียบร้อยแล้ว",
+  "mcengine.mcdaily.claimed": "รับแล้ว",
+  "mcengine.mcdaily.missed": "พลาด",
+  "mcengine.mcdaily.no_reward": "ไม่มีรางวัล",
+  "mcengine.mcdaily.available_on": "พร้อมรับวันที่: %s",
+  "mcengine.mcdaily.no_permission": "คุณไม่มีสิทธิ์ใช้งานคำสั่งนี้",
+  "mcengine.mcdaily.edit.usage": "วิธีใช้: /daily edit <ปี> <เดือน>",
+  "mcengine.mcdaily.edit.invalid_month": "เดือนไม่ถูกต้อง (ใช้ 1-12)",
+  "mcengine.mcdaily.edit.invalid_args": "อาร์กิวเมนต์ไม่ถูกต้อง",
+  "mcengine.mcdaily.unknown_subcommand": "คำสั่งย่อยไม่ถูกต้อง",
+  "mcengine.mcdaily.players_only": "คำสั่งนี้ใช้ได้เฉพาะผู้เล่นเท่านั้น",
+  "mcengine.mcdaily.gui.title": "MCDaily - %s",
+  "mcengine.mcdaily.editor.title": "MCDaily Editor - %s",
+  "mcengine.mcdaily.not_in_month": "ไม่สามารถใช้งานได้"
+}
