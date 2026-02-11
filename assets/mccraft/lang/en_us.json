@@ -18,12 +18,15 @@
   "mcengine.mccraft.msg.get.usage": "Usage: /craft get <type>",
   "mcengine.mccraft.msg.get.not.found": "No head item found for type: %s",
   "mcengine.mccraft.msg.get.success": "You received the head item for type: %s",
+  "mcengine.mccraft.msg.get.item.name": "Craft %s",
   "mcengine.mccraft.msg.get.help": "Get the head item for a type",
   "mcengine.mccraft.msg.help.header": "MCCraft Help",
   "mcengine.mccraft.msg.help.hover": "Click to autofill",
   "mcengine.mccraft.msg.help.help": "Show this help menu",
   "mcengine.mccraft.msg.recipe.saved": "Recipe saved: %s",
   "mcengine.mccraft.msg.craft.no.head": "You need the head item for type: %s to craft here.",
-  "mcengine.mccraft.msg.drop.protected": "You cannot drop a protected MCCraft head item."
+  "mcengine.mccraft.msg.craft.no.recipes": "No recipes found for type: %s",
+  "mcengine.mccraft.msg.drop.protected": "You cannot drop a protected MCCraft head item.",
+  "mcengine.mccraft.msg.place.protected": "You cannot place a protected MCCraft head item."
 }
 

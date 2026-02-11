@@ -16,11 +16,14 @@
   "mcengine.mccraft.msg.get.usage": "",
   "mcengine.mccraft.msg.get.not.found": "",
   "mcengine.mccraft.msg.get.success": "",
+  "mcengine.mccraft.msg.get.item.name": "",
   "mcengine.mccraft.msg.get.help": "",
   "mcengine.mccraft.msg.help.header": "",
   "mcengine.mccraft.msg.help.hover": "",
   "mcengine.mccraft.msg.help.help": "",
   "mcengine.mccraft.msg.recipe.saved": "",
   "mcengine.mccraft.msg.craft.no.head": "",
-  "mcengine.mccraft.msg.drop.protected": ""
+  "mcengine.mccraft.msg.craft.no.recipes": "",
+  "mcengine.mccraft.msg.drop.protected": "",
+  "mcengine.mccraft.msg.place.protected": ""
 }

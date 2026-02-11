@@ -18,11 +18,14 @@
   "mcengine.mccraft.msg.get.usage": "วิธีใช้: /craft get <type>",
   "mcengine.mccraft.msg.get.not.found": "ไม่พบหัวไอเท็มสำหรับประเภท: %s",
   "mcengine.mccraft.msg.get.success": "คุณได้รับหัวไอเท็มสำหรับประเภท: %s",
+  "mcengine.mccraft.msg.get.item.name": "คราฟต์ %s",
   "mcengine.mccraft.msg.get.help": "รับหัวไอเท็มของประเภท",
   "mcengine.mccraft.msg.help.header": "คู่มือ MCCraft",
   "mcengine.mccraft.msg.help.hover": "คลิกเพื่อเติมอัตโนมัติ",
   "mcengine.mccraft.msg.help.help": "แสดงคู่มือนี้",
   "mcengine.mccraft.msg.recipe.saved": "บันทึกสูตรแล้ว: %s",
   "mcengine.mccraft.msg.craft.no.head": "คุณต้องมีหัวไอเท็มของประเภท: %s เพื่อคราฟต์ที่นี่",
-  "mcengine.mccraft.msg.drop.protected": "คุณไม่สามารถทิ้งหัวไอเท็มที่ป้องกันของ MCCraft ได้"
+  "mcengine.mccraft.msg.craft.no.recipes": "ไม่พบสูตรสำหรับประเภท: %s",
+  "mcengine.mccraft.msg.drop.protected": "คุณไม่สามารถทิ้งหัวไอเท็มที่ป้องกันของ MCCraft ได้",
+  "mcengine.mccraft.msg.place.protected": "คุณไม่สามารถวางหัวไอเท็มที่ป้องกันของ MCCraft ได้"
 }
