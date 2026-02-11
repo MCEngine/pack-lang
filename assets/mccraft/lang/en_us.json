@@ -1,9 +1,13 @@
 {
   "mcengine.mccraft.msg.permission.denied": "You do not have permission to run this command.",
   "mcengine.mccraft.msg.command.unknown": "Unknown subcommand: %s",
-  "mcengine.mccraft.msg.create.usage": "Usage: /craft create <type> <head_item_base64|id>",
-  "mcengine.mccraft.msg.create.type.success": "Registered crafting station type: %s",
-  "mcengine.mccraft.msg.create.help": "Create a station head or open recipe editor",
+  "mcengine.mccraft.msg.create.usage": "Usage: /craft create <type> <id>",
+  "mcengine.mccraft.msg.create.type.not.found": "Type '%s' does not exist. Register it first with /craft type create.",
+  "mcengine.mccraft.msg.create.help": "Create a recipe and open the editor GUI",
+  "mcengine.mccraft.msg.type.usage": "Usage: /craft type create <name> <head_item_base64>",
+  "mcengine.mccraft.msg.type.exists": "Type '%s' already exists.",
+  "mcengine.mccraft.msg.type.success": "Registered crafting station type: %s",
+  "mcengine.mccraft.msg.type.help": "Register a new station type with a head item",
   "mcengine.mccraft.msg.error": "Error: %s",
   "mcengine.mccraft.msg.player.only": "This command can only be used by players.",
   "mcengine.mccraft.msg.editor.usage": "Usage: /craft editor <type>",
@@ -19,3 +23,4 @@
   "mcengine.mccraft.msg.craft.no.head": "You need the head item for type: %s to craft here.",
   "mcengine.mccraft.msg.drop.protected": "You cannot drop a protected MCCraft head item."
 }
+
