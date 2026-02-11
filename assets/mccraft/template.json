@@ -1,0 +1,21 @@
+{
+  "mcengine.mccraft.msg.permission.denied": "",
+  "mcengine.mccraft.msg.command.unknown": "",
+  "mcengine.mccraft.msg.create.usage": "",
+  "mcengine.mccraft.msg.create.type.success": "",
+  "mcengine.mccraft.msg.create.help": "",
+  "mcengine.mccraft.msg.error": "",
+  "mcengine.mccraft.msg.player.only": "",
+  "mcengine.mccraft.msg.editor.usage": "",
+  "mcengine.mccraft.msg.editor.help": "",
+  "mcengine.mccraft.msg.get.usage": "",
+  "mcengine.mccraft.msg.get.not.found": "",
+  "mcengine.mccraft.msg.get.success": "",
+  "mcengine.mccraft.msg.get.help": "",
+  "mcengine.mccraft.msg.help.header": "",
+  "mcengine.mccraft.msg.help.hover": "",
+  "mcengine.mccraft.msg.help.help": "",
+  "mcengine.mccraft.msg.recipe.saved": "",
+  "mcengine.mccraft.msg.craft.no.head": "",
+  "mcengine.mccraft.msg.drop.protected": ""
+}

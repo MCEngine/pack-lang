@@ -1,0 +1,21 @@
+{
+  "mcengine.mccraft.msg.permission.denied": "คุณไม่มีสิทธิ์ใช้คำสั่งนี้",
+  "mcengine.mccraft.msg.command.unknown": "ไม่รู้จักคำสั่งย่อย: %s",
+  "mcengine.mccraft.msg.create.usage": "วิธีใช้: /craft create <type> <head_item_base64|id>",
+  "mcengine.mccraft.msg.create.type.success": "ลงทะเบียนสถานีคราฟต์ประเภท: %s",
+  "mcengine.mccraft.msg.create.help": "สร้างหัวสถานีหรือเปิดตัวแก้สูตร",
+  "mcengine.mccraft.msg.error": "ข้อผิดพลาด: %s",
+  "mcengine.mccraft.msg.player.only": "คำสั่งนี้ใช้ได้เฉพาะผู้เล่นเท่านั้น",
+  "mcengine.mccraft.msg.editor.usage": "วิธีใช้: /craft editor <type>",
+  "mcengine.mccraft.msg.editor.help": "เปิดรายการสูตรของประเภทนี้",
+  "mcengine.mccraft.msg.get.usage": "วิธีใช้: /craft get <type>",
+  "mcengine.mccraft.msg.get.not.found": "ไม่พบหัวไอเท็มสำหรับประเภท: %s",
+  "mcengine.mccraft.msg.get.success": "คุณได้รับหัวไอเท็มสำหรับประเภท: %s",
+  "mcengine.mccraft.msg.get.help": "รับหัวไอเท็มของประเภท",
+  "mcengine.mccraft.msg.help.header": "คู่มือ MCCraft",
+  "mcengine.mccraft.msg.help.hover": "คลิกเพื่อเติมอัตโนมัติ",
+  "mcengine.mccraft.msg.help.help": "แสดงคู่มือนี้",
+  "mcengine.mccraft.msg.recipe.saved": "บันทึกสูตรแล้ว: %s",
+  "mcengine.mccraft.msg.craft.no.head": "คุณต้องมีหัวไอเท็มของประเภท: %s เพื่อคราฟต์ที่นี่",
+  "mcengine.mccraft.msg.drop.protected": "คุณไม่สามารถทิ้งหัวไอเท็มที่ป้องกันของ MCCraft ได้"
+}
