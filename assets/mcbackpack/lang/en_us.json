@@ -22,11 +22,11 @@
   "mcengine.mcbackpack.msg.help.changepwd": "<old> <new> - Change password for held backpack",
   "mcengine.mcbackpack.msg.help.create": "[size] [texture] - Get a new backpack item",
   "mcengine.mcbackpack.msg.help.deletepwd": "<password> - Unlock held backpack",
+  "mcengine.mcbackpack.msg.help.get": "Get backpack tools",
+  "mcengine.mcbackpack.msg.help.get.model.data": "Give a Model Data Applicator item",
   "mcengine.mcbackpack.msg.help.header": "--- MCBackpack Help ---",
   "mcengine.mcbackpack.msg.help.help": "Show this help menu",
   "mcengine.mcbackpack.msg.help.hover": "Click to autofill",
-  "mcengine.mcbackpack.msg.help.set": "Configure backpack settings",
-  "mcengine.mcbackpack.msg.help.set.model.data": "Give a Model Data Applicator item",
   "mcengine.mcbackpack.msg.help.setpwd": "<password> - Set password for held backpack",
   "mcengine.mcbackpack.msg.help.texture": "<base64> - Get a texture applicator",
   "mcengine.mcbackpack.msg.initialized": "Backpack initialized!",
@@ -51,7 +51,7 @@
   "mcengine.mcbackpack.msg.try.again": "Try again or type 'cancel' to exit.",
   "mcengine.mcbackpack.msg.usage.changepwd": "Usage: /backpack changepwd <oldPwd> <newPwd>",
   "mcengine.mcbackpack.msg.usage.deletepwd": "Usage: /backpack deletepwd <password>",
-  "mcengine.mcbackpack.msg.usage.set.model.data": "Usage: /backpack set model data <string>",
+  "mcengine.mcbackpack.msg.usage.get.model.data": "Usage: /backpack get model data <string>",
   "mcengine.mcbackpack.msg.usage.setpwd": "Usage: /backpack setpwd <password>",
   "mcengine.mcbackpack.msg.usage.texture": "Usage: /backpack texture <base64>"
 }

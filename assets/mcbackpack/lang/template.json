@@ -25,8 +25,8 @@
   "mcengine.mcbackpack.msg.help.header": "",
   "mcengine.mcbackpack.msg.help.help": "",
   "mcengine.mcbackpack.msg.help.hover": "",
-  "mcengine.mcbackpack.msg.help.set": "",
-  "mcengine.mcbackpack.msg.help.set.model.data": "",
+  "mcengine.mcbackpack.msg.help.get": "",
+  "mcengine.mcbackpack.msg.help.get.model.data": "",
   "mcengine.mcbackpack.msg.help.setpwd": "",
   "mcengine.mcbackpack.msg.help.texture": "",
   "mcengine.mcbackpack.msg.initialized": "",
@@ -51,7 +51,7 @@
   "mcengine.mcbackpack.msg.try.again": "",
   "mcengine.mcbackpack.msg.usage.changepwd": "",
   "mcengine.mcbackpack.msg.usage.deletepwd": "",
-  "mcengine.mcbackpack.msg.usage.set.model.data": "",
+  "mcengine.mcbackpack.msg.usage.get.model.data": "",
   "mcengine.mcbackpack.msg.usage.setpwd": "",
   "mcengine.mcbackpack.msg.usage.texture": ""
 }
