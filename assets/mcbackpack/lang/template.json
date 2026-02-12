@@ -51,6 +51,7 @@
   "mcengine.mcbackpack.msg.try.again": "",
   "mcengine.mcbackpack.msg.usage.changepwd": "",
   "mcengine.mcbackpack.msg.usage.deletepwd": "",
+  "mcengine.mcbackpack.msg.usage.set.model.data": "",
   "mcengine.mcbackpack.msg.usage.setpwd": "",
   "mcengine.mcbackpack.msg.usage.texture": ""
 }
